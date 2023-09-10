@@ -1,0 +1,12 @@
+Required Libraries:
+- Pandas: For data manipulation and analysis 
+	- pip install pandas  
+- Numpy: For Scientific Computing 
+	- pip install   numpy    
+- Matplotlib: For plotting graphs and visuals
+	- pip install matplotlib
+- Seaborn: For plotting graphs
+	- pip install seaborn
+
+- Python version 3.0 +
+- Jupyter Notebook 
