@@ -44,6 +44,20 @@ We created informative visualizations using libraries like Matplotlib and Seabor
 ## Conclusion
 The Hotel EDA project provides valuable insights into hotel bookings, including guest preferences, booking trends, and cancellation patterns. This analysis can be used by hotel management to make informed decisions and improve their services.
 
+
+
+## How to Contribute
+To contribute to this project, follow these steps:
+1. Fork this repository to your own GitHub account.
+2. Clone the forked repository to your local machine.
+3. Create a new branch for your changes: `git checkout -b feature/your-feature-name`
+4. Make your changes in the code or add new features.
+5. Commit your changes with a descriptive commit message: `git commit -m "Add feature: your feature name"`
+6. Push your changes to your GitHub repository: `git push origin feature/your-feature-name`
+7. Create a Pull Request from your forked repository to the original repository.
+
+Your contributions are welcome and appreciated!
+
 Feel free to explore the Jupyter Notebook file in this repository for detailed code and visualizations.
 
 If you have any questions or suggestions, please don't hesitate to reach out. Happy exploring!
