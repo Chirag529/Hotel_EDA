@@ -29,3 +29,15 @@ The dataset used for this analysis is the [Hotel booking demand datasets - Scien
 - Guest count analysis by month and year.
 - ... and much more!
 
+## Data Preprocessing
+- Handling missing values in the dataset.
+- Converting data types to appropriate formats.
+- Cleaning column names for consistency.
+- Removing records with no guests.
+
+## Exploratory Data Analysis
+We performed exploratory data analysis to understand various aspects of hotel bookings, such as customer demographics, booking patterns, and cancellation rates.
+
+## Data Visualization
+We created informative visualizations using libraries like Matplotlib and Seaborn to provide a clearer understanding of the data. Visualizations include bar charts, box plots, and line graphs.
+
