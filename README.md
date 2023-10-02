@@ -20,3 +20,12 @@ Exploratory Data Analysis (EDA) is a critical step in understanding your data be
 The dataset used for this analysis is the [Hotel booking demand datasets - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340918315191). It contains information about hotel bookings, including reservation details, guest demographics, and booking outcomes.
 
 
+## Analysis Highlights
+- Identification of top countries with the highest number of customers.
+- Analysis of booking cancellations by market segment.
+- Visualization of room prices by room type and hotel.
+- Seasonal analysis of hotel bookings.
+- Examination of accommodation type distribution.
+- Guest count analysis by month and year.
+- ... and much more!
+
