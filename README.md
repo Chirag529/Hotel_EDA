@@ -41,3 +41,9 @@ We performed exploratory data analysis to understand various aspects of hotel bo
 ## Data Visualization
 We created informative visualizations using libraries like Matplotlib and Seaborn to provide a clearer understanding of the data. Visualizations include bar charts, box plots, and line graphs.
 
+## Conclusion
+The Hotel EDA project provides valuable insights into hotel bookings, including guest preferences, booking trends, and cancellation patterns. This analysis can be used by hotel management to make informed decisions and improve their services.
+
+Feel free to explore the Jupyter Notebook file in this repository for detailed code and visualizations.
+
+If you have any questions or suggestions, please don't hesitate to reach out. Happy exploring!
